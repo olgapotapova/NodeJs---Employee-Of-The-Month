@@ -7,9 +7,8 @@
     "\\public",
     "\\public\\css",
     "\\routes",
-    "\\utilites",
     "\\views"
   ],
-  "SelectedNode": "\\models\\user.js",
+  "SelectedNode": "\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
